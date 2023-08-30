@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Isaque Pim's personal website"
+title                    : "Isaque's Hub"
 title_separator          : "-"
 name                     : &name "Isaque"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Isaque"
-  avatar           : "me.jpeg"
+  name             : "Isaque Pim"
+  avatar           : "me.png"
   bio              : "Master's student at FGV-EMAp"
   location         : "Rio de Janeiro, Brazil"
   employer         :

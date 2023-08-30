@@ -7,6 +7,8 @@ venue: "FGV-EMAp"
 date: 2023-01-01
 ---
 
+"While the individual man is an insoluble puzzle, in the aggregate he becomes a mathematical certainty" ~ Sherlock Holmes, The Sign of Four
+
 Assigments
 ======
 
