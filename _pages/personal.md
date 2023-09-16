@@ -16,7 +16,7 @@ My goal is to develop high-quality tools and methods for statistical analysis, m
 
 
 
-* Quoted from a comment on this [post](https://statmodeling.stat.columbia.edu/2022/03/05/statistics-is-hard-etc-again/)
+<font size='1'>* Quoted from a comment on this [post](https://statmodeling.stat.columbia.edu/2022/03/05/statistics-is-hard-etc-again/)</font>
 
 
    
