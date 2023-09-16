@@ -17,7 +17,7 @@ Main professor: [Vincent Guiges](https://www.vincentgyg.com/)
 
 Here's a link to professor's [Vincent](https://www.vincentgyg.com/teaching) personal website. There you can find lecture notes and exercise sheets.
 
-Here's some reference that you can find online for free [Boyd and Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/) (I personally studied from this book when I took the course). If you find useful to watch recorded lectures, Stanford has some available online from their [Convex Optimization I (EE 364A)](https://www.youtube.com/playlist?list=PL3940DD956CDF0622) course.
+Here's some reference that you can find online for free [Boyd and Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/) with a [solution manual](https://egrcc.github.io/docs/math/cvxbook-solutions.pdf)(I personally studied from this book when I took the course). If you find useful to watch recorded lectures, Stanford has some available online from their [Convex Optimization I (EE 364A)](https://www.youtube.com/playlist?list=PL3940DD956CDF0622) course.
 
 
 
