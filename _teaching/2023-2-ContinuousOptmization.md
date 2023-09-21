@@ -24,7 +24,7 @@ Here's some reference that you can find online for free [Boyd and Vandenberghe](
 Exercise Sheets
 ======
 
-- Lista 1 - Convexity [lista](https://res.cloudinary.com/dbytnnhkz/image/upload/v1688162506/Exercices_Convexity_92afbe1e1d.pdf),[solutions](http://pudim.com.br/)
+- Lista 1 - Convexity [lista](https://res.cloudinary.com/dbytnnhkz/image/upload/v1688162506/Exercices_Convexity_92afbe1e1d.pdf),[solutions](/files/Lista_1_otimização_Soluções.pdf)
 - Lista 2 - Optimality Conditions [lista](https://res.cloudinary.com/dbytnnhkz/image/upload/v1688162506/Optimality_Conditions_e16be32b57.pdf), [solutions](http://pudim.com.br/)
 
 Discussion
